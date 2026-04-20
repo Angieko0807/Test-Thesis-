@@ -3,4 +3,4 @@ title: "Presentation"
 format: html
 ---
 
-Will hold slides of my research 
+Will hold slides for my research/ thesis defense. Within the presentation, I'll also have a recording of myself breaking down the research. 
