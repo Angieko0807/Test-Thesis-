@@ -1,0 +1,7 @@
+---
+title: "Methods"
+format: html
+---
+
+## Methods 
+As of Spring Semester 2026, I will process Discord logs, code message types, and analyze correlations between engagement and performance.
