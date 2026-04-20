@@ -1,0 +1,27 @@
+---
+title: "About Me"
+author: "Angie Kochkarova"
+format: html
+---
+
+## **About Me**
+
+#### **Academic Background**
+
+I am a graduate student in Biochemistry at San Francisco State University, where I focus on STEM education and student retention in introductory science courses. I completed my undergraduate degree in Cellular and Molecular Biology at SFSU, where I first became interested in how learning environments impact student success.
+
+#### **Research Focus**
+
+My research looks at how digital platforms like Discord can act as academic “third spaces” that support help-seeking, collaboration, and a sense of belonging. Working with Dr. Michelle Sinapuelas, I study student engagement in Studio Chemistry courses by analyzing patterns of interaction along with survey data about student experiences. I am especially interested in how confidence, belonging, and comfort asking questions affect persistence in STEM.
+
+#### **Research Experience**
+
+As an Instructional Student Assistant for General Chemistry, I help run a course Discord where students can ask questions, share resources, and connect with each other outside of class. Through this role, I collect and analyze data on how students participate and seek help, and how that connects to their performance. This work has helped me build skills in data analysis, research design, and communicating scientific ideas.
+
+#### **Personal Background and Motivation**
+
+My path into science has not been straightforward. I grew up in a low-income, single-parent household after experiencing early housing instability, and I started working at a young age while going to school. Even though I was motivated to pursue science, I struggled at first because I did not have access to strong academic support or effective study strategies. Over time, I learned how to study more effectively and built habits that helped me succeed. These experiences showed me how much structural barriers can shape student outcomes, and they are a big part of why I care about equity in STEM education.
+
+#### **Future Goals**
+
+I plan to pursue a PhD and continue researching how to make STEM education more inclusive and supportive. My goal is to help design learning environments where students from all backgrounds feel comfortable asking questions, engaging with material, and staying in STEM.
