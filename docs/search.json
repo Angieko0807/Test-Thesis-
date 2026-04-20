@@ -5,5 +5,82 @@
     "title": "Home",
     "section": "",
     "text": "Discord as a Digital Third Space in STEM\nThis site will hold my master’s thesis research on how Discord can support students engagement, help-seeking, and retention in introductory chemistry courses."
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "As of Spring Semester 2026, I will process Discord logs, code message types, and analyze correlations between engagement and performance."
+  },
+  {
+    "objectID": "methods.html#methods",
+    "href": "methods.html#methods",
+    "title": "Methods",
+    "section": "",
+    "text": "As of Spring Semester 2026, I will process Discord logs, code message types, and analyze correlations between engagement and performance."
+  },
+  {
+    "objectID": "data/data.html",
+    "href": "data/data.html",
+    "title": "data",
+    "section": "",
+    "text": "This page describes the datasets used in my study, including Discord activity logs, student performance data, and survey responses."
+  },
+  {
+    "objectID": "data/data.html#datasets",
+    "href": "data/data.html#datasets",
+    "title": "data",
+    "section": "",
+    "text": "This page describes the datasets used in my study, including Discord activity logs, student performance data, and survey responses."
+  },
+  {
+    "objectID": "data/data.html#data-dictionary",
+    "href": "data/data.html#data-dictionary",
+    "title": "data",
+    "section": "Data Dictionary",
+    "text": "Data Dictionary\n\nMessage Type: Help-seeking, explanation, social\nTimestamp: Date and time of message"
+  },
+  {
+    "objectID": "thesis/thesis.html",
+    "href": "thesis/thesis.html",
+    "title": "Thesis",
+    "section": "",
+    "text": "This page will present my findings of my research on Discord as a digital third space in STEM education."
+  },
+  {
+    "objectID": "thesis/thesis.html#introduction",
+    "href": "thesis/thesis.html#introduction",
+    "title": "Thesis",
+    "section": "",
+    "text": "This page will present my findings of my research on Discord as a digital third space in STEM education."
+  },
+  {
+    "objectID": "methods/methods.html",
+    "href": "methods/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "As of Spring Semester 2026, I will process Discord logs, code message types, and analyze correlations between engagement and performance."
+  },
+  {
+    "objectID": "methods/methods.html#methods",
+    "href": "methods/methods.html#methods",
+    "title": "Methods",
+    "section": "",
+    "text": "As of Spring Semester 2026, I will process Discord logs, code message types, and analyze correlations between engagement and performance."
+  },
+  {
+    "objectID": "index/index.html",
+    "href": "index/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Discord as a Digital Third Space in STEM\nThis site will hold my master’s thesis research on how Discord can support students engagement, help-seeking, and retention in introductory chemistry courses."
+  },
+  {
+    "objectID": "presentation/presentation.html",
+    "href": "presentation/presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Will hold slides of my research"
   }
 ]

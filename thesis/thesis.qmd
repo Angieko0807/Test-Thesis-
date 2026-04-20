@@ -1,0 +1,9 @@
+---
+title: "Thesis"
+author: "Angie Kochkarova"
+format: html
+---
+
+## Introduction
+
+This page will present my findings of my research on Discord as a digital third space in STEM education.
