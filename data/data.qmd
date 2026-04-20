@@ -1,0 +1,14 @@
+---
+title: "data"
+author: "Angie Kochkarova"
+format: html
+---
+
+## Datasets
+
+This page describes the datasets used in my study, including Discord activity logs, student performance data, and survey responses.
+
+## Data Dictionary
+
+- Message Type: Help-seeking, explanation, social
+- Timestamp: Date and time of message

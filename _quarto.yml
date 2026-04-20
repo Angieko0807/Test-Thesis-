@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Discord STEM Retention Study"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: data.qmd
+        text: Data
+      - href: methods.qmd
+        text: Methods
+      - href: thesis.qmd
+        text: Thesis
+      - href: presentation.qmd
+        text: Presentation
+
+format:
+  html:
+    theme: cosmo
+    toc: true
